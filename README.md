@@ -1,11 +1,9 @@
-# Tlacitko
+# Tlačítko
 
 ## Účel/Zadání/Funkce
 
-* parní mlátička s elektronickým vstřikováním
-    * pára
-    * píst
-    * mikroprocesor
+* tlačítko reaguje na hraanu
+* při uvolnění tlačítka se přepne svit LED diody
 
 
 ## Schéma zapojení
